@@ -17,4 +17,13 @@ The election audit results are the following:
       -Charles Casper Stockham with a total of 85,213 votes which is the 23% out of the total votes.
       -Diana DeGette with a total of 272,892 votes which is 73.8% out of the total votes.
       -Raymon Anthony Doane with a total of 11,606 which is the 3.1% out of the total votes. 
+      
+      See picture below for reference.
+      ![Results](https://user-images.githubusercontent.com/118491043/209028948-8beb3ebb-a7bf-47d7-9548-adad1beb7d01.png)
 
+
+## Summary
+This script can be used for other elections with a couple more modifications, that's if we want to breakdown the information even further, for instance:
+  1- We can break down what metod was used to vote (machine voting, ballot, online, etc).
+  
+  2- Another modification would be breaking down the percentage of votes agaisnt each candidate in every county.
