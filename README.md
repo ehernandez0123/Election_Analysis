@@ -18,8 +18,9 @@ The election audit results are the following:
       -Diana DeGette with a total of 272,892 votes which is 73.8% out of the total votes.
       -Raymon Anthony Doane with a total of 11,606 which is the 3.1% out of the total votes. 
       
-      See picture below for reference.
-      ![Results](https://user-images.githubusercontent.com/118491043/209028948-8beb3ebb-a7bf-47d7-9548-adad1beb7d01.png)
+      See picture for reference.
+      
+![Results](https://user-images.githubusercontent.com/118491043/209028948-8beb3ebb-a7bf-47d7-9548-adad1beb7d01.png)
 
 
 ## Summary
